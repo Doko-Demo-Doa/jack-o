@@ -1,1 +1,5 @@
 venv/
+.env
+config.*
+__pycache__/
+.vscode/
